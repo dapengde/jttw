@@ -1,0 +1,32 @@
+--- 
+title: "Journey to the West"
+subtitle: "A Photo Album"
+author: "Peng Zhao"
+date: "`r Sys.Date()`"
+output:
+  bookdown::pdf_book:
+#    template: tex/template_journal.tex
+    template: tex/template_thesis_classic.tex
+    keep_tex: yes
+    citation_package: natbib
+#    latex_engine: xelatex
+    toc_depth: 3
+    toc_unnumbered: yes
+    toc_appendix: yes
+    pandoc_args: --chapters
+    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
+#    dev: "cairo_pdf"
+bibliography: [bib/bib.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: no  
+# toc: no
+lot: yes
+lof: yes
+site: bookdown::bookdown_site
+# geometry: [b5paper, tmargin=2cm, bmargin=2cm, lmargin=1.5cm, rmargin=1.5cm]
+description: "my photo album."
+github-repo: "dapengde/jw"
+url: 'https\://bookdown.org/baydap/jttw/'
+cover-image: "images/cover.jpg"
+---

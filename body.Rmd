@@ -1,0 +1,97 @@
+# Prelogue {-}
+
+Descriptions of photos can only be seen in the pdf file.
+
+<!--
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("")
+```
+
+-->
+# (PART) China{-}
+
+# Sha'an Xi
+
+\m{Xi'an, \\27 Nov. 2008}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2008-11-27-xian-bridge.jpg")
+```
+
+\m{Xi'an, 27 Nov. 2008}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2008-11-27-xian-monkey-king.jpg")
+```
+\newpage
+
+\m{Xi'an, \\27 Nov. 2008}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2008-11-27-xian-poets.jpg")
+```
+
+# Gansu
+
+\m{Gansu, \\24 June 2006}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2006-06-24-gansu1.jpg")
+```
+
+\m{Gansu, \\24 June 2006}
+
+```{r, out.width='60%' , fig.align='right', echo=FALSE}
+knitr::include_graphics("images/2006-06-24-gansu2.jpg")
+```
+
+\newpage 
+
+\m{Gansu \\24 June 2006}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2006-06-24-gansu3.jpg")
+```
+
+\m{Gansu \\24 June 2006}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2006-06-24-gansu4.jpg")
+```
+
+
+# Shanxi
+
+\m{Yushe, 16 July 2007}
+
+```{r, out.width='100%' , fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2007-07-16-yushe.jpg")
+```
+
+# Xinjiang
+
+# (PART) Europe{-}
+
+# Germany
+
+# Netherlands
+
+# Italy
+
+# France
+
+# Czech
+
+# Austria
+
+# Hungary
+
+# Slovenia
+
+# Switzerland
+
+
+# (PART) America{-}
+
+Not been there yet

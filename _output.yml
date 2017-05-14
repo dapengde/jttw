@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  css: css/style.css
+  config:
+    toc:
+      collapse: none
+      before: |
+        <li><a href="http://pzhao.org">Journey to the West</a></li>
+      after: |
+        <li><a href="https://bookdown.org/yihui/bookdown/" target="blank">Supported by R bookdown</a></li>
+    download: [pdf, epub]
+    edit: https://github.com/dapengde/jw/edit/master/%s
+    sharing:
+      github: yes
+      facebook: yes
+bookdown::epub_book: default
